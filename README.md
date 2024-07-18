@@ -25,5 +25,5 @@ Olá! Meu nome é Marcos, sou estudante de Análise e Desenvolvimento de Sistema
 
 ---
 
-![Profile Views]([https://komarev.com/ghpvc/?username=RangelMRK&color=blue])
+![Profile Views](https://komarev.com/ghpvc/?username=RangelMRK&color=blue)
 
