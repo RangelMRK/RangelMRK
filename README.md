@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou Marcos Rangel 👋
 
-<!--
-**RangelMRK/RangelMRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🌐 Desenvolvedor Backend em formação  
+🚀 Apaixonado por tecnologia e aprendizado contínuo  
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Meu nome é Marcos, sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre em busca de novos conhecimentos e desafios. Tenho um grande interesse por desenvolvimento web e estou atualmente focado em aprender e desenvolver minhas habilidades em frontend e backend.
+
+## Habilidades
+
+- **Linguagens de Programação**: JavaScript, Python, Java
+- **Frontend**: HTML, CSS, React
+- **Backend**: Node.js
+- **Banco de Dados**: MySQL
+- **Ferramentas**: Git, GitHub, VS Code
+
+
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/rangelmrk/)
+- [Email](marcosvrangel@hotmail.com)
+
+---
+
+![Profile Views]([https://komarev.com/ghpvc/?username=RangelMRK&color=blue])
+
