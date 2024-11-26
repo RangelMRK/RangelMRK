@@ -21,7 +21,6 @@ Olá! Meu nome é Marcos, sou estudante de Análise e Desenvolvimento de Sistema
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/rangelmrk/)
-- [Email](marcosvrangel@hotmail.com)
 
 ---
 
