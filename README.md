@@ -12,9 +12,8 @@ Olá! Meu nome é Marcos, sou estudante de Análise e Desenvolvimento de Sistema
 
 - **Linguagens de Programação**: JavaScript, Python, Java
 - **Frontend**: HTML, CSS, React
-- **Backend**: Node.js
-- **Banco de Dados**: MySQL
-- **Ferramentas**: Git, GitHub, VS Code
+- **Frameworks**: Node.js, SpringBoot
+- **Banco de Dados**: MySQL, PostgreSQL
 
 
 
